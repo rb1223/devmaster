@@ -1,5 +1,5 @@
  #EXTM3U
-#EXTINF:-1,ACTIVADOM
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://images.freeimages.com/vhq/images/previews/0a0/green-power-button-clip-art-72582.jpg",ARG: ACTIVADOM
 https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP.php
 #EXTVLCOPT:http-user-agent=Android Vinebre Software
 
