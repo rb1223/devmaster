@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1,ACTIVADOR
+ #EXTM3U
+#EXTINF:-1,tvg-logo="https://i.imgur.com/vdmVdCh.png"group-title="España",ACTIVAR
 https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP.php
 #EXTVLCOPT:http-user-agent=Android Vinebre Software
 
