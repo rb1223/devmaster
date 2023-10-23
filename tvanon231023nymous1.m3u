@@ -1,10 +1,11 @@
 #EXTM3U
+
 #EXTINF:0,A Mas SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2134.m3u8?token=
 #EXTINF:0,A&E HD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3295.m3u8?token=
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37973.m3u8?token=
 #EXTINF:0,ADN 40 SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2146.m3u8?token=
@@ -17,6 +18,18 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3287.m3u8?token=
 #EXTINF:0,Animal Planet SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2478.m3u8?token=
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/34380.m3u8?token=
+#EXTINF:0,Antena 3 ESP p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2210.m3u8?token=
+
+
+#EXTINF:0,AmericaTv P
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2301.m3u8?token=
+
 #EXTINF:0,AXN HD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3104.m3u8?token=
@@ -98,12 +111,19 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11876.m3u8?token=
 #EXTINF:0,COMEDY CENTRAL  SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3289.m3u8?token=
-#EXTINF:0,DE PELICULA  + SD
+#EXTINF:0,DTV Sports 2 AR p
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1470.m3u8?token=
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1644.m3u8?token=
+#EXTINF:0,DTV Sports 2 AR p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37837.m3u8?token=
+
 #EXTINF:0,DE PELICULA HD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3285.m3u8?token=
+#EXTINF:0,DE PELICULA  + SD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1470.m3u8?token=
 #EXTINF:0,De Pelicula SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1469.m3u8?token=
@@ -158,6 +178,21 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1601.m3u8?token=
 #EXTINF:0,El Gourmet  SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1490.m3u8?token=
+#EXTINF:0,ESPN 1 AR p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/14857.m3u8?token=
+#EXTINF:0,ESPN 2 AR p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1662.m3u8?token=
+#EXTINF:0,ESPN 3 AR p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2485.m3u8?token=
+#EXTINF:0,ESPN Premium p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1652.m3u8?token=
+
+
+
 #EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3167.m3u8?token=
@@ -194,6 +229,8 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1484.m3u8?token=
 #EXTINF:0,Foro Tv SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2447.m3u8?token=
+
+
 #EXTINF:0,Fox Deportes SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1510.m3u8?token=
@@ -206,6 +243,11 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3785.m3u8?token=
 #EXTINF:0,FOX SPORTS MX SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3170.m3u8?token=
+
+
+
+
+
 #EXTINF:0,FX SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3102.m3u8?token=
@@ -314,6 +356,12 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2133.m3u8?token=
 #EXTINF:0,Ingenio Tv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1486.m3u8?token=
+
+#EXTINF:0,Latina P
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/40378.m3u8?token=
+
+
 #EXTINF:0,LAS ESTRELLAS -2 HORAS HD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3310.m3u8?token=
@@ -356,6 +404,12 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12250.m3u8?token=
 #EXTINF:0,Nat Geo SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3122.m3u8?token=
+
+#EXTINF:0,NatGeo Wild ES p
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/92940.m3u8?token=
+
+
 #EXTINF:0,Nick Jr. SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3130.m3u8?token=
@@ -530,6 +584,34 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/9495.m3u8?token=
 #EXTINF:0,Universal Channel SD
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3103.m3u8?token=
+
+#EXTINF:0,Universal Channel HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30386.m3u8?token=
+
+
+#EXTINF:0,Universal Crime Este HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36355.m3u8?token=
+
+#EXTINF:0,Universal Comedy HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36354.m3u8?token=
+
+#EXTINF:0,Universal Reality HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36357.m3u8?token=
+
+#EXTINF:0,Universal Cinema HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36358.m3u8?token=
+
+#EXTINF:0,Universal Premiere HD
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36356.m3u8?token=
+
+
+
 #EXTINF:0,UNIVISION ATLANTA
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/9466.m3u8?token=
