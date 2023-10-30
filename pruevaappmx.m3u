@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,LAT : TNT HD VIP
+#EXTINF:-1,a&e
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/1.ts
 #EXTINF:-1,DO : Luna TV HD
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/2.ts
-#EXTINF:-1,DO : Super TV 55 HD
+#EXTINF:-1,ABC
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/3.ts
-#EXTINF:-1,LAT : Cine Canal HD VIP
+#EXTINF:-1,ABC 13
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/4.ts
 #EXTINF:-1,LAT : Star Channel HD
@@ -18,22 +18,22 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/5.ts
 #EXTINF:-1,US : TBS HD
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/6.ts
-#EXTINF:-1,US : Food Network HD
+#EXTINF:-1,amc
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/7.ts
-#EXTINF:-1,US : HBO HD
+#EXTINF:-1,amc
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/8.ts
-#EXTINF:-1,US : HBO ZONE HD
+#EXTINF:-1,animal planet
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/9.ts
-#EXTINF:-1,LAT : Pasiones Col
+#EXTINF:-1,animal planet
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/10.ts
-#EXTINF:-1,LAT : Pasiones USA
+#EXTINF:-1,discovery tlc
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/11.ts
-#EXTINF:-1,PR : Wapa America
+#EXTINF:-1,hola tv
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/12.ts
 #EXTINF:-1,PR : Telemundo Puerto Rico HD
@@ -42,10 +42,10 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/13.ts
 #EXTINF:-1,COL : Caracol Internacional
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/14.ts
-#EXTINF:-1,ES : LA 2 HD
+#EXTINF:-1,axn
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/15.ts
-#EXTINF:-1,ES : Divinite HD
+#EXTINF:-1,axn
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/16.ts
 #EXTINF:-1,ES : LA 1
@@ -54,40 +54,40 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/17.ts
 #EXTINF:-1,ES : La Cuatro HD
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/18.ts
-#EXTINF:-1,ES : TeleCinco HD
+#EXTINF:-1,azcorazón
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/19.ts
-#EXTINF:-1,ES : TVE
+#EXTINF:-1,azcorazón
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/20.ts
-#EXTINF:-1,ES : A3Series HD
+#EXTINF:-1,azteca uno
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/21.ts
-#EXTINF:-1,LAT : Antena 3 Internacional
+#EXTINF:-1,azcinema
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/23.ts
-#EXTINF:-1,ES : FDF HD
+#EXTINF:-1,azteca uno
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/24.ts
-#EXTINF:-1,ES : TV Viajes Pluto
+#EXTINF:-1,azteca uno
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/25.ts
-#EXTINF:-1,ES : De Casa + HD
+#EXTINF:-1,baby tv
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/26.ts
-#EXTINF:-1,ES : ¡Hola! TV HD
+#EXTINF:-1,baby tv
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/27.ts
 #EXTINF:-1,ES : Canal Cocina HD
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/28.ts
-#EXTINF:-1,ES : 24h TVE
+#EXTINF:-1,bein sports 3
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/29.ts
-#EXTINF:-1,MEX : Canal 5 HD
+#EXTINF:-1,bein sports
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/30.ts
-#EXTINF:-1,ES : Odisea TV
+#EXTINF:-1,bein sports
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/31.ts
 #EXTINF:-1,US : Telemundo 47 HD
@@ -105,7 +105,7 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/35.ts
 #EXTINF:-1,DO : Telemicro
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/36.ts
-#EXTINF:-1,ES : La Sexta HD
+#EXTINF:-1,bein sports 3
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/37.ts
 #EXTINF:-1,ES : Mega HD
@@ -123,7 +123,7 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/41.ts
 #EXTINF:-1,US : Telemundo Atlanta HD
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/42.ts
-#EXTINF:-1,US : Telemundo Orlando HD
+#EXTINF:-1,boomerang
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/43.ts
 #EXTINF:-1,US : Telemundo Rodhe Island HD
@@ -132,22 +132,22 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/44.ts
 #EXTINF:-1,US : Unimas HD NY
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/45.ts
-#EXTINF:-1,PR : TeleIslas
+#EXTINF:-1,canal 5
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/46.ts
-#EXTINF:-1,COL : TVAgro
+#EXTINF:-1,canal 5
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/47.ts
-#EXTINF:-1,US : CBS 2 NY HD
+#EXTINF:-1,canal once
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/48.ts
-#EXTINF:-1,US : ABC 7 HD
+#EXTINF:-1,canal once
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/49.ts
-#EXTINF:-1,US : TLC HD
+#EXTINF:-1,caracol
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/50.ts
-#EXTINF:-1,US : HGTV HD
+#EXTINF:-1,cartoon network
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/51.ts
 #EXTINF:-1,US : NBC 4 NY HD
@@ -180,16 +180,16 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/60.ts
 #EXTINF:-1,LAT : HBO POP
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/61.ts
-#EXTINF:-1,LIB : Al-Manar
+#EXTINF:-1,sony
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/62.ts
-#EXTINF:-1,LIB : Alzahra TV
+#EXTINF:-1,cinecanal
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/63.ts
 #EXTINF:-1,LIB : Sky News
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/64.ts
-#EXTINF:-1,LIB : TL LIBAN
+#EXTINF:-1,cinemax
 #EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/65.ts
 #EXTINF:-1,US : CBS NEWS NY
