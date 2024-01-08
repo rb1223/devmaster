@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,Passengers
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fpelis8%2FVer%20Pasajeros%20Online%20(2016)%20-%20REPELIS.mp4
+#EXTINF:-1,Mike and Dave. Los Cazanovias
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fpelis8%2Fmike.mp4
+#EXTINF:-1,Fragmentado
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fpelis8%2Ffrafmentado.mp4
+#EXTINF:-1,Logan
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fpelis8%2Flogan.mp4
+
 #EXTINF:-1 ,Tu navidad o la mía? 2 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%C2%BFTu%20navidad%20o%20la%20m%C3%ADa-%202%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 ,Tu Navidad o la mía? 1 (2022)
