@@ -1,33 +1,35 @@
+#EXTM3U
+#EXTINF:0,PAC - 12  INSIDER
+http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/344349.ts
 #EXTINF:0,5 Star Max
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/274685.ts
 #EXTINF:0,A la Mexicana
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/438720.ts
 #EXTINF:0,A&E
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/158747.ts
 #EXTINF:0,A+V
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/166043.ts
 #EXTINF:0,A3 Cine
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/274533.ts
 #EXTINF:0,ABC New York 7
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/315947.ts
 #EXTINF:0,Abc10 Miami
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/3.ts
 #EXTINF:0,Abc13 Las Vegas (KTNV)
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/247209.ts
 #EXTINF:0,Abc7 Los Angeles
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/5.ts
 #EXTINF:0,Abc7 NewYork
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/6.ts
 #EXTINF:0,Action Max USA
-#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
 http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/274684.ts
+#EXTINF:0,ADN40
+http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/274540.ts
+#EXTINF:0,Adrenalina Sports Network
+http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/274575.ts
+#EXTINF:0,AMC
+http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/7.ts
+#EXTINF:0,AMC USA
+http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/8.ts
+#EXTINF:0,America TV HD
+http://live.superteve.com:33527/live/livetv/9Wu6os8Dmg/12691.ts
